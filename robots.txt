@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arisheplan90.github.io/app-hthcn-com-cn/sitemap.xml
